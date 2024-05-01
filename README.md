@@ -2,7 +2,7 @@
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me just hure
+- 📫 How to reach me just here
 - 😄 Pronouns: he
 - ⚡ Fun fact: im a pokemon master
 
